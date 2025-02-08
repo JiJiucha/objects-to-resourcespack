@@ -1,3 +1,7 @@
+#https://github.com/JiJiucha/objects-to-resourcespack
+#https://github.com/JiJiucha/objects-to-resourcespack.git
+#LICENSE: CC0-1.0 license
+
 import os
 import json
 import shutil
