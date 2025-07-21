@@ -1,4 +1,6 @@
 # objects-to-resourcespack
+本版本需要terminal_color，将color.py放置在项目目录中
+[terminal_color](/JiJiucha/terminal_color)
 ## 使用方法
 1. 安装python
 2. 移动 ./minecraft/ 目录下 assets 目录到项目目录
